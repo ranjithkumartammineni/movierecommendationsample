@@ -1,2 +1,3 @@
 # movierecommendationsystem
-To recommend a movie to an user
+A user is recommended with a set movies based on the user preference.
+
